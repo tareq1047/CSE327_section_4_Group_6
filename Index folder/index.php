@@ -283,7 +283,19 @@
 		</div>
 		<div class="clearfix"></div>
 	</div>
-					
+		
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+<!-- contact form -->
+<script src="js/jqBootstrapValidation.js"></script>
+
+<!-- /contact form -->	
+<!-- Calendar -->
+		<script src="js/jquery-ui.js"></script>
+		<script>
+				$(function() {
+				$( "#datepicker,#datepicker1,#datepicker2,#datepicker3" ).datepicker();
+				});
+		</script>
 				
 
 
