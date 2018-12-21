@@ -31,9 +31,9 @@ include('db.php');
 <div class="banner-top">
 			<div class="social-bnr-agileits">
 				<ul class="social-icons3">
-								<li><a href="https://www.facebook.com/" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="https://twitter.com/" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="https://plus.google.com/u/0/" class="fa fa-google-plus icon-border googleplus"> </a></li>
+								<li><a href="https://www.facebook.com/redroofinn/" class="fa fa-facebook icon-border facebook"> </a></li>
+								<li><a href="https://twitter.com/redroofinn" class="fa fa-twitter icon-border twitter"> </a></li>
+								<li><a href="https://plus.google.com/+redroofinn" class="fa fa-google-plus icon-border googleplus"> </a></li>
 							</ul>
 			</div>
 			<div class="contact-bnr-w3-agile">
@@ -306,8 +306,8 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Ahmed Sajid Imtiaz</h4>
-							<span>Receptionist</span>
-							<p>Ateend to visitors and deal inqueries face to face in best way. Can coomunicate in multile language bengali, hindi English.</p>
+							<span>Head Receptionist</span>
+							<p>Attend to visitors and deal inqueries of the customers. Can communicate in multiple languages. Charismatic way of talking </p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
 							<ul class="social-icons3">
 								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -325,7 +325,7 @@ include('db.php');
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Susmita Saha Misti</h4>
 							<span>Operation head</span>
-							<p>Manages all the opearation head properly. Gave the best support </p>
+							<p>Manages all the opearations properly.Cooridinate all the sectors of the hotel management</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
 							<ul class="social-icons3">
 								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -342,8 +342,8 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Nazmus Sakib </h4>
-							<span>Receptionist</span>
-							<p>Motivated to give the best support in every possible way. Manages Every stuff properly and also had a good work record</p>
+							<span>Finance Head</span>
+							<p>Motivated to give the best support in every possible way. Manages financial and other monetary stuffs properly.</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
 							<ul class="social-icons3">
 								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -588,9 +588,9 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
-								Worth to come again
+								Great Experience
 								</h4>
-								<p>The location of this hotel is perfect for sightseeing. The room was vey clean and pleasant. All the amenities were first class. The breakfast very nice with all kinds of choices and a fresh omelet bar too. Highly recommend. </p>
+								<p>The location of this hotel is perfect for sightseeing. The room was vey clean and pleasant. All the amenities were first class. The breakfast very nice with all kinds of choices. </p>
 								<h5>Mohammad Ashrafuzzaman Khan</h5>
 								<p>Bangladesh</p>
 							</div>
@@ -610,11 +610,11 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Worth to come again
+								Nice and Neat.
 								</h4>
 								<p>The hotel is very well located and was easy to find. I found it clean and comfortable and I was especially impressed with how quiet the room was. I also was impressed with how friendly the staff were in helping me arrange some sightseeing and providing general guidance. </p>
 								<h5>Iqbal Hossain Rokon</h5>
-								<p>United States</p>
+								<p>Bangladesh</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -632,11 +632,11 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Worth to come again
+								Pleasing Stay. 
 								</h4>
-								<p>Lovely hotel. Nice rooms, excellent wifi, terrific breakfast, great location! </p>
+								<p>Lovely hotel. Nice rooms, excellent wifi, great location! </p>
 								<h5>Tamanna Motahar</h5>
-								<p>India</p>
+								<p>Bangladesh</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -654,11 +654,11 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Worth to come again
+								Good Luck Red Roof Inn
 								</h4>
 								<p>We found this an excellent hotel. Everyone was very polite and friendly and always ready to help. The hotel is very well appointed, amazing breakfasts, and an excellent restaurant. The lobby is a great place for meeting friends or for a relaxing drink at the bar. Being centrally located was also a bonus. </p>
 								<h5>Sazzad Hossain</h5>
-								<p>Nepal</p>
+								<p>Bangladesh</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -732,7 +732,7 @@ include('db.php');
 
 							</ul>
 			</div>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.7905052320443!2d-77.84987248482734!3d39.586871613613056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9f6a80ccf0661%3A0x7210426c67abc40!2sVirginia+Welcome+Center%2FSafety+Rest+Area!5e0!3m2!1sen!2sin!4v1485760915662" ></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14639.330917445057!2d91.170466!3d23.4664974!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x472790d039c0bddb!2sRed+Roof+Inn!5e0!3m2!1sen!2sbd!4v1545355750882" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</div>
 		<div class="clearfix"></div>
 	</div>
