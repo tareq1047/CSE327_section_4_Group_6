@@ -6,4 +6,5 @@ Then go to  http://localhost/hotel/ to get the landing page of our website.
 
 Go to http://localhost/hotel/admin/ to access the administrative landing page. 
 It will require an admin ID &amp; Password.
+
 Admin ID : admin , Admin Password : 1234 
